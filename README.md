@@ -66,6 +66,7 @@ The most popular ones are MAC OS and Linux, but Windows users can also use the [
 
 <br/>
 
+The official certifications from <b>Github</b> can be found here [Github](https://learn.microsoft.com/en-us/training/modules/intro-to-git/?WT.mc_id=%3Fwt.mc_id%3Dstudentamb_260352)
 ---
 
 <a name="Contributions-with-permissions"/>
